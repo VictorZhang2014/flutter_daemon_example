@@ -15,6 +15,9 @@ This example proves the technical feasibility of running a "daemon-like" backgro
    - Pushes a high-priority local system notification.
    - Triggers an HTTP network request to a backend API using `Dio`.
 
+## Screenshot
+<img src="https://github.com/VictorZhang2014/flutter_daemon_example/blob/main/resources/Screenshot-Huawei.jpg" width="200px" />
+
 ## Required Permissions
 
 To render this daemon executable, you must declare the following platform-specific permissions.
