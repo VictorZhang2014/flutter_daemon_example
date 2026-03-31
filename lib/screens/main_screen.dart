@@ -4,14 +4,14 @@ import 'package:flutter/services.dart';
 import 'package:flutter_background_service/flutter_background_service.dart';
 import 'package:permission_handler/permission_handler.dart';
 
-class MainScreen extends StatefulWidget {
-  const MainScreen({super.key});
+class MainApp extends StatefulWidget {
+  const MainApp({super.key});
 
   @override
-  State<MainScreen> createState() => _MainScreenState();
+  State<MainApp> createState() => _MainAppState();
 }
 
-class _MainScreenState extends State<MainScreen> {
+class _MainAppState extends State<MainApp> {
 
   @override
   void initState() {
