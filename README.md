@@ -16,7 +16,8 @@ This example proves the technical feasibility of running a "daemon-like" backgro
    - Triggers an HTTP network request to a backend API using `Dio`.
 
 ## Screenshot
-<img src="https://github.com/VictorZhang2014/flutter_daemon_example/blob/main/resources/Screenshot-Huawei.jpg" width="200px" />
+<img src="https://github.com/VictorZhang2014/flutter_daemon_example/blob/main/resources/Screenshot-Huawei1.jpg" width="230px" />
+<img src="https://github.com/VictorZhang2014/flutter_daemon_example/blob/main/resources/Screenshot-Huawei2.jpg" width="230px" />
 
 ## Required Permissions
 
